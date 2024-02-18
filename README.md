@@ -18,7 +18,7 @@ A simple console-based helicopter game implemented in C++. Control the helicopte
 3. Run the compiled executable.
 
 ## Dependencies
-- C++ compiler
+- C++ compiler.
 
 ## Additional Notes
 - Adjust the game loop delay in the code if needed (`std::this_thread::sleep_for(std::chrono::milliseconds(100))`).
